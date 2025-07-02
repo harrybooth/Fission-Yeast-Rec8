@@ -2,10 +2,13 @@
 
 This code base is using the [Julia Language](https://julialang.org/) and
 [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
-to make a reproducible scientific project named
-> FissionYeast
+to make a reproducible scientific project for the paper "Meiotic cohesin Rec8 imposes fitness costs on fission yeast gametes to drive evolution of parental bias in gene expression" authored by 
+Celso Martins (1,5) , Harry Booth (2,5), Clàudia Salat-Canela (1), Zena Hadjivasiliou (2,3,4), Aleksandar Vještica (1)
 
-It is authored by Harry Booth.
+1 Center for Integrative Genomics, Génopode, University of Lausanne, Lausanne, Switzerland
+2 Mathematical and Physical Biology Laboratory, The Francis Crick Institute, London, United Kingdom
+3 Department of Physics and Astronomy, University College London, London, United Kingdom
+4 Institute for the Physics of Living Systems, University College London, London, United Kingdom
 
 To (locally) reproduce this project, do the following:
 
