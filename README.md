@@ -8,7 +8,7 @@ to make a reproducible scientific project for the paper
 
 authored by:  
 
-Celso Martins (1,5) , Harry Booth (2,5), Clàudia Salat-Canela (1), Zena Hadjivasiliou (2,3,4), Aleksandar Vještica (1)  
+Celso Martins <sup>1</sup> , Harry Booth <sup>2</sup>, Clàudia Salat-Canela <sup>1</sup>, Zena Hadjivasiliou <sup>2,3,4</sup>, Aleksandar Vještica <sup>1</sup>
 
 1. Center for Integrative Genomics, Génopode, University of Lausanne, Lausanne, Switzerland  
 2. Mathematical and Physical Biology Laboratory, The Francis Crick Institute, London, United Kingdom  
