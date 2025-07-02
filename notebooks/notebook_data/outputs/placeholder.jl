@@ -1,0 +1,1 @@
+# keep this file so git sync output folder even when empty
