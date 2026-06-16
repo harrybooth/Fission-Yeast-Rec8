@@ -4,7 +4,7 @@ This code base is using the [Julia Language](https://julialang.org/) and
 [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
 to make a reproducible scientific project for the paper  
 
-**"Meiotic cohesin Rec8 imposes fitness costs on fission yeast gametes to drive evolution of parental bias in gene expression"**  
+**"Meiotic cohesin Rec8 imposes fitness costs on fission yeast gametes favoring the evolution of parental bias in gene expression"**  
 
 authored by:  
 
